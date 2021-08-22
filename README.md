@@ -11,3 +11,6 @@ Primeiro, na pasta do projeto, rode o comando **`make build`** no terminal para 
 Então, com o programa compilado, rode o comando **`make run`** para executá-lo.  
 Para remover os arquivos criados durante a compilação, rode o comando **`make clean`**.  
 Você também pode rodar apenas o comando **`make`** para compilar e iniciar o programa de uma vez.
+
+Para mais detalhes do contexto e objetivo desse programa, leia o arquivo **Atividade Avaliativa - Árvores e Buscas.pdf**.
+Esse arquivo foi a base da criação desse programa.
